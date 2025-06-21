@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <owner>finveta</owner>
+  <repo>yesterday-1</repo>
+  <version>v1.0.0</version>
+  <next number="1" owner="stolbitsa" repo="wellerman"/>
+  <readme>
+    <ru>97048e7d68ccb7a30ce0ab1291b898399f556953fec7a41de3e441fbff9d9c82</ru>
+    <en>a39e29fc5a3130fae4560ac6513b33fae112425ffbbecc6fef7ff0fb8446c847</en>
+  </readme>
+  <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
+  <exercise number="1">
+    <scale>major</scale>
+    <bpm>100</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="18-yesterday-1.mp4" size="1540201" type="video/mp4" volume="1">18236ed5ff1b4d900558846ebf4d142a6a1c18e26361061432ab2d08b69e7aa5</video>
+    <notes>
+      <note number="1" values="2" ticks="134" durationTicks="78" ppq="96" velocity="0.843"/>
+      <note number="2" values="1" ticks="166" durationTicks="23" ppq="96" velocity="0.739"/>
+      <note number="3" values="1" ticks="199" durationTicks="193" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="2">
+    <scale>chromaticmajor</scale>
+    <bpm>100</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="18-yesterday-2.mp4" size="1945635" type="video/mp4" volume="1">fa60b8dfa6e5644e92a67773dd837981311987612460482b5702033651410edd</video>
+    <notes>
+      <note number="1" values="3" ticks="120" durationTicks="49" ppq="96" velocity="0.802"/>
+      <note number="2" values="95" ticks="167" durationTicks="48" ppq="96" velocity="0.812"/>
+      <note number="3" values="96" ticks="218" durationTicks="43" ppq="96" velocity="0.769"/>
+      <note number="4" values="6" ticks="265" durationTicks="48" ppq="96" velocity="0.742"/>
+      <note number="5" values="7" ticks="313" durationTicks="68" ppq="96" velocity="0.749"/>
+      <note number="6" values="18" ticks="409" durationTicks="48" ppq="96" velocity="0.747"/>
+      <note number="7" values="7" ticks="457" durationTicks="90" ppq="96" velocity="0.862"/>
+      <note number="8" values="6" ticks="553" durationTicks="32" ppq="96" velocity="0.774"/>
+      <note number="9" values="6" ticks="599" durationTicks="189" ppq="96" velocity="0.739"/>
+    </notes>
+  </exercise>
+  <exercise number="3">
+    <scale>major</scale>
+    <bpm>100</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="18-yesterday-3.mp4" size="1739196" type="video/mp4" volume="1">51d6e70296fc060f71683c1f8c661c731725fa14512e44870eb8342c3e0cee7b</video>
+    <notes>
+      <note number="1" values="6" ticks="134" durationTicks="35" ppq="96" velocity="0.539"/>
+      <note number="2" values="6" ticks="181" durationTicks="34" ppq="96" velocity="0.496"/>
+      <note number="3" values="5" ticks="218" durationTicks="36" ppq="96" velocity="0.461"/>
+      <note number="4" values="4" ticks="256" durationTicks="33" ppq="96" velocity="0.534"/>
+      <note number="5" values="3" ticks="301" durationTicks="33" ppq="96" velocity="0.536"/>
+      <note number="6" values="2" ticks="354" durationTicks="48" ppq="96" velocity="0.511"/>
+      <note number="7" values="4" ticks="422" durationTicks="95" ppq="96" velocity="0.619"/>
+      <note number="8" values="3" ticks="518" durationTicks="34" ppq="96" velocity="0.524"/>
+      <note number="9" values="3" ticks="566" durationTicks="189" ppq="96" velocity="0.521"/>
+    </notes>
+  </exercise>
+  <exercise number="4">
+    <scale>major</scale>
+    <bpm>100</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="18-yesterday-4.mp4" size="1162918" type="video/mp4" volume="1">9427dca270a5d14e23b7e018b9d62078bf35fd64bfff215062ac727c940e89bc</video>
+    <notes>
+      <note number="1" values="2" ticks="112" durationTicks="49" ppq="96" velocity="0.664"/>
+      <note number="2" values="1" ticks="159" durationTicks="96" ppq="96" velocity="0.739"/>
+      <note number="3" values="3" ticks="264" durationTicks="48" ppq="96" velocity="0.636"/>
+      <note number="4" values="2" ticks="313" durationTicks="145" ppq="96" velocity="0.739"/>
+    </notes>
+  </exercise>
+  <exercise number="5">
+    <scale>major</scale>
+    <bpm>100</bpm>
+    <lowestNote>86</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="18-yesterday-5.mp4" size="1303173" type="video/mp4" volume="1">678445d92603e7d839b1067b74238ba59aa9e19b3e5a49f235bfe6ae4738d9a7</video>
+    <notes>
+      <note number="1" values="86" ticks="86" durationTicks="49" ppq="96" velocity="0.661"/>
+      <note number="2" values="1" ticks="133" durationTicks="96" ppq="96" velocity="0.732"/>
+      <note number="3" values="3" ticks="238" durationTicks="37" ppq="96" velocity="0.63"/>
+      <note number="4" values="3" ticks="286" durationTicks="133" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="6">
+    <scale>major</scale>
+    <bpm>100</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="18-yesterday-6.mp4" size="1311410" type="video/mp4" volume="1">925ea449f1365dd97282b88da7d5f69fc1f8371a686e4bc4fc835f6547887a58</video>
+    <notes>
+      <note number="1" values="2" ticks="102" durationTicks="55" ppq="96" velocity="0.843"/>
+      <note number="2" values="1" ticks="134" durationTicks="46" ppq="96" velocity="0.732"/>
+      <note number="3" values="1" ticks="167" durationTicks="193" ppq="96" velocity="0.717"/>
+    </notes>
+  </exercise>
+  <exercise number="7">
+    <scale>chromaticmajor</scale>
+    <bpm>100</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="18-yesterday-7.mp4" size="1400145" type="video/mp4" volume="1">29ae98083ba8e86ee6d1d71cbbf82e7f25e209cbb35b9e0c64430415b613e00b</video>
+    <notes>
+      <note number="1" values="3" ticks="108" durationTicks="49" ppq="96" velocity="0.795"/>
+      <note number="2" values="95" ticks="155" durationTicks="48" ppq="96" velocity="0.811"/>
+      <note number="3" values="96" ticks="206" durationTicks="43" ppq="96" velocity="0.764"/>
+      <note number="4" values="6" ticks="253" durationTicks="48" ppq="96" velocity="0.74"/>
+      <note number="5" values="7" ticks="301" durationTicks="68" ppq="96" velocity="0.748"/>
+      <note number="6" values="18" ticks="397" durationTicks="48" ppq="96" velocity="0.74"/>
+      <note number="7" values="7" ticks="445" durationTicks="49" ppq="96" velocity="0.858"/>
+      <note number="8" values="6" ticks="501" durationTicks="32" ppq="96" velocity="0.772"/>
+      <note number="9" values="6" ticks="540" durationTicks="189" ppq="96" velocity="0.732"/>
+    </notes>
+  </exercise>
+  <exercise number="8">
+    <scale>major</scale>
+    <bpm>100</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="18-yesterday-8.mp4" size="1025950" type="video/mp4" volume="1">b16b8febdb4d42a72064ebef190777e1aa500fb25c9bd315dafa03dde336ec2d</video>
+    <notes>
+      <note number="1" values="6" ticks="93" durationTicks="26" ppq="96" velocity="0.535"/>
+      <note number="2" values="6" ticks="136" durationTicks="34" ppq="96" velocity="0.488"/>
+      <note number="3" values="5" ticks="174" durationTicks="42" ppq="96" velocity="0.457"/>
+      <note number="4" values="4" ticks="218" durationTicks="67" ppq="96" velocity="0.528"/>
+      <note number="5" values="3" ticks="289" durationTicks="29" ppq="96" velocity="0.535"/>
+      <note number="6" values="2" ticks="338" durationTicks="48" ppq="96" velocity="0.504"/>
+      <note number="7" values="4" ticks="386" durationTicks="94" ppq="96" velocity="0.614"/>
+      <note number="8" values="3" ticks="480" durationTicks="56" ppq="96" velocity="0.52"/>
+      <note number="9" values="3" ticks="550" durationTicks="189" ppq="96" velocity="0.52"/>
+    </notes>
+  </exercise>
+  <exercise number="9">
+    <scale>major</scale>
+    <bpm>100</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="18-yesterday-9.mp4" size="767335" type="video/mp4" volume="1">278cbe5545a0cdcdacaa80c2ebf4a7d9452d690b5d0b32a2aeb52d2ff04f6b75</video>
+    <notes>
+      <note number="1" values="2" ticks="87" durationTicks="74" ppq="96" velocity="0.661"/>
+      <note number="2" values="1" ticks="174" durationTicks="57" ppq="96" velocity="0.732"/>
+      <note number="3" values="3" ticks="234" durationTicks="50" ppq="96" velocity="0.63"/>
+      <note number="4" values="2" ticks="288" durationTicks="96" ppq="96" velocity="0.8"/>
+    </notes>
+  </exercise>
+  <exercise number="10">
+    <scale>major</scale>
+    <bpm>100</bpm>
+    <lowestNote>86</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="18-yesterday-10.mp4" size="918909" type="video/mp4" volume="1">4cd985bb3b33acd46cf3f096f32eb99c87dbed02a2c2aa5fe4fa2ecc153f75bd</video>
+    <notes>
+      <note number="1" values="86" ticks="65" durationTicks="52" ppq="96" velocity="0.661"/>
+      <note number="2" values="1" ticks="118" durationTicks="98" ppq="96" velocity="0.732"/>
+      <note number="3" values="3" ticks="218" durationTicks="50" ppq="96" velocity="0.63"/>
+      <note number="4" values="3" ticks="275" durationTicks="96" ppq="96" velocity="0.8"/>
+    </notes>
+  </exercise>
+</level>
