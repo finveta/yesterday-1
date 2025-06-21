@@ -4,6 +4,8 @@
 
 # The Beatles - Yesterday - Первый и второй куплет
 
+Lennon - McCartney
+
 Оригинальный текст:
 
 [1 куплет]
