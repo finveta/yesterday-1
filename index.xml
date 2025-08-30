@@ -2,11 +2,11 @@
 <level>
   <owner>finveta</owner>
   <repo>yesterday-1</repo>
-  <version>v1.0.9</version>
+  <version>v1.0.10</version>
   <next number="1" owner="stolbitsa" repo="wellerman"/>
   <readme>
-    <ru>fff16f7b7556a47101dfd2cd2f8966bf64d65166e082a5b99666e2cc3b3a979f</ru>
-    <en>a39e29fc5a3130fae4560ac6513b33fae112425ffbbecc6fef7ff0fb8446c847</en>
+    <ru>121c5a5248869d8bff76fc9e1a368fc3d9efb2e4a20bc8e8b6dd7751b123d912</ru>
+    <en>33fb1dbdbba0f0ca02d1568858f6b959e1de9caf0e886e6b8f5cb1ea1d9c01dc</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
